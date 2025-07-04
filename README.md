@@ -22,28 +22,5 @@ Outlet Size & Type Distribution with sales contribution
 Dynamic toggle for key metrics: total sales, average sales, rating, and items
 Visually appealing, clean color theme matching Blinkit branding
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Snapshot link:
 https://github.com/dishasharma16/BLINKIT-DASHBOARD/blob/main/BLINKIT%20pdf_page-0001.jpg
